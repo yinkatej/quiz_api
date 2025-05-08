@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 8080,
+        "host": "localhost"
+    },
+    "database": {
+        "url": "mongodb://localhost:27017",
+        "name": "quizdb"
+    }
+}

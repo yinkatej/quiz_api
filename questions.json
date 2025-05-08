@@ -1,0 +1,111 @@
+
+
+ {
+    "quiz":
+            {
+                "title": "General Knowledge Quiz",
+                    "time":5,
+                    "questions": [
+                {
+                    "type":"single",
+                    "id": 1,
+                    "imageUrl":"",
+                    "question": "What is the capital of France?",
+                    "selectedOption": "",
+                    "options":[
+                    "Paris", "London", "Berlin", "Madrid"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 2,
+                    "imageUrl":"",
+                    "question": "Which of the following are programming languages?",
+                    "selectedOption": "",
+                    "options":[
+                        "Python", "HTML", "JavaScript", "CSS"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 3,
+                    "imageUrl":"http://localhost:8080/image",
+                    "question": "What is the largest planet in our solar system?",
+                    "selectedOption": "",
+                    "options":[
+                        "Earth", "Mars", "Jupiter", "Saturn"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 4,
+                    "imageUrl":"http://localhost:8080/image3",
+                    "question": "Which of the following are fruits?",
+                    "selectedOption": "",
+                    "options":[
+                        "Apple", "Carrot", "Banana", "Basket"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 5,
+                    "imageUrl":"http://localhost:8080/image2",
+                    "question": "Which of the following is not a programming languages?",
+                    "selectedOption": "",
+                    "options":[
+                        "Python", "HTML", "JavaScript", "Java"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 6,
+                    "imageUrl":"",
+                    "question": "What is the chemical symbol for gold?",
+                    "selectedOption": "",
+                    "options":[
+                    "Au", "Ag", "Fe", "Pb"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 7,
+                    "imageUrl":"",
+                    "question": "Which of the following are programming languages?",
+                    "selectedOption": "",
+                    "options":[
+                        "Python", "Java", "C++", "HTML"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 8,
+                    "imageUrl":"",
+                    "question": "What is the largest planet in our solar system?",
+                    "selectedOption": "",
+                    "options":[
+                        "Earth", "Mars", "Jupiter", "Saturn"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 9,
+                    "imageUrl":"",
+                    "question": "Which of the following is not a fruits?",
+                    "selectedOption": "",
+                    "options":[
+                        "Apple", "Carrot", "Banana", "Basket"
+                    ]
+                },
+                {
+                    "type":"single",
+                    "id": 10,
+                    "imageUrl":"",
+                    "question": "Which of the following is not a programming languages?",
+                    "selectedOption": "",
+                    "options":[
+                        "Python", "HTML", "JavaScript", "Java"
+                    ]
+                }
+            ]
+        }
+}
